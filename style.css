@@ -163,3 +163,9 @@ a{
     width: 18px;
     margin-right: 8px;
 }
+
+@media only screen and (max-width: 600px){
+.main-content{
+    flex-basis: 100%;
+}
+}
