@@ -128,4 +128,17 @@ a{
     position: relative;
     top: unset;
 }
+#showMoreLink{
+    display: block;
+    width: fit-content;
+    margin: 10px auto;
+    font-size: 14px;
+    cursor: pointer;
+}
+.sidebar-activity{
+    display: none;
+}
+.sidebar-activity.open-activity{
+    display: block;
+}
 }
