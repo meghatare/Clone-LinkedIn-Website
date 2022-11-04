@@ -118,3 +118,11 @@ a{
     display: inline-block;
     margin: 10px 0;
 }
+.container{
+    padding:  15px 3%;
+}
+.left-sidebar{
+    flex-basis: 100%;
+    position: relative;
+    top: unset;
+}
